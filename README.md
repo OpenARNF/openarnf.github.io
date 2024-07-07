@@ -1,2 +1,1 @@
-# openarnf.github.io
-Pages repo
+# [OpenARNF main repo](https://github.com/OpenARNF/OpenARNF)
